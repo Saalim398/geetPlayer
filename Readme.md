@@ -20,7 +20,7 @@ Ensure you have the following installed before running the application:
 
 1. Clone this repository or download the source code:
    ```sh
-   git clone https://github.com/yourusername/geetPlayer.git
+   git clone https://github.com/Saalim398/geetPlayer.git
    ```
 2. Open the project in your favorite Java IDE.
 3. Ensure that the images (icons) are correctly placed in the `geetPlayer/src/images/` directory.
