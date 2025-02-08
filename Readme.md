@@ -77,6 +77,4 @@ This project is open-source and available under the MIT License.
 ## Author
 Mohammad Saalim Khan
 
----
-Feel free to contribute or report issues to improve the project!
 
